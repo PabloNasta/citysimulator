@@ -3,7 +3,7 @@
 Integrantes:
 -Pablo Nasta
 -Ignacio Muñoz
--Ben
+-Benjamin Coronado
 
 requerimientos:
 -Google Chrome
